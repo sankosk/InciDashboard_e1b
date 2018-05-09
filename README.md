@@ -13,11 +13,11 @@ InciDashboard e1b
 - Pablo Baragaño Coto (UO251759)
 - Sergio Rodríguez Artime (UO248043)
 
-# Instalación y ejecución de Apache Kafka:
-Apache kafka esta desplegado en (insertar sitio y enlace)
-
 # Despliegue
-La aplicacion esta desplegada usando heroku en (inserte enlace)
+Las aplicaciones estan desplegadas en:
+  - InciManager: https://incimanagere1b.herokuapp.com/ ó http://incimanagere1b.herokuapp.com/
+  - InciDashboard: https://incidashboarde1b.herokuapp.com/ ó http://incidashboarde1b.herokuapp.com/
+  - Agents: https://agentse1b.herokuapp.com/ ó http://agentse1b.herokuapp.com/
 
-# Ejecución:	
-- Abrimos una linea de comandos dentro de la carpeta del proyecto y escribimos mvn spring-boot:run
+
+Para más informacíon sobre los módulos acceda a su repositorio correspondiente.
